@@ -1,3 +1,5 @@
 First message
 
 Second message
+
+New Message
